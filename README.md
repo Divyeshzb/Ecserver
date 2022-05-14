@@ -6,7 +6,7 @@ And you can access roost-controlplane:30030 over a browser
 But this is just the UI
 
 
-Build ballot/Dockerfile
+Build ballot/Dockerfileadad
 Apply ballot/ballot.yaml to ZKE
 
 And you can access roost-controlplane:30080 (GET)
