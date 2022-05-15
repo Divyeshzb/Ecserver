@@ -1,5 +1,6 @@
 Build voter/Dockerfile
 Deploy voter/voter.yaml
+Adsasd
 
 And you can access roost-controlplane:30030 over a browser 
 * For single-node cluster, try roost-worker instead of roost-controlplane
